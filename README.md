@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
