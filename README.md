@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
