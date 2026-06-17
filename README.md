@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
@@ -27,8 +29,21 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
