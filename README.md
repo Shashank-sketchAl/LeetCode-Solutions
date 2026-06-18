@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
@@ -42,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
