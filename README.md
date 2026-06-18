@@ -20,6 +20,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
@@ -36,6 +37,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
