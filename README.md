@@ -21,6 +21,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
