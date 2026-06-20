@@ -26,6 +26,7 @@
 | [0231-power-of-two](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
