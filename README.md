@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -166,6 +168,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
