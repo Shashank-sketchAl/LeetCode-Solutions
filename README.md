@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0283-move-zeroes](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashank-sketchAl/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
